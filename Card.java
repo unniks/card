@@ -2,7 +2,8 @@ package inferdata.solutions.linkedlist;
 
 /*
  * Copyright (c) 2003 InferData Corporation. All Rights Reserved.
- *  
+ *  commit one
+ *  commit two
  */
 
 public class Card {
